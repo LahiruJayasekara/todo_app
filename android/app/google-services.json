@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459838332147",
+    "project_id": "todo-app-fd320",
+    "storage_bucket": "todo-app-fd320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459838332147:android:268f0d7c68b3770cdceb86",
+        "android_client_info": {
+          "package_name": "com.mlpjdroid.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459838332147-adrks54lqi546vke5t6n7aqsjka8nugb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ro6MB_NRjR3KzdwaM6mdvRYYMe-HRvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459838332147-adrks54lqi546vke5t6n7aqsjka8nugb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
